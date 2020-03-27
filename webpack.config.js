@@ -63,5 +63,9 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: 'index.html'
     })
-  ]
+  ],
+  devServer:{
+    contentBase:'./dist',
+    inline: true
+  }
 }

@@ -26,6 +26,7 @@ new Vue({
     }
 })
 
+
 /* vue 配置方法 3 */
 // import cpn from './cpn';
 // new Vue({
@@ -58,7 +59,6 @@ new Vue({
 //         cpn
 //     }
 // })
-
 
 /* vue 配置方法 1 */
 // new Vue({

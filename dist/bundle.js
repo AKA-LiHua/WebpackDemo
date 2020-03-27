@@ -901,7 +901,6 @@ new _vue2.default({
 //     }
 // })
 
-
 /* vue 配置方法 1 */
 // new Vue({
 //     el: '#app',
